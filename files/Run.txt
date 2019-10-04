@@ -1,0 +1,1 @@
+./plan  <domain_file> <problem_file> <result_file>

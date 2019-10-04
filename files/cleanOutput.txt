@@ -1,0 +1,34 @@
+#!/bin/bash
+rm -rf elapsed.time
+rm -rf exec.stats
+rm -rf features.arff
+rm -rf featuresGraph
+rm -rf featuresSimply.arff
+rm -rf global_features.arff
+rm -rf global_features_simply.arff
+rm -rf grounding.stats
+rm -rf heuristic
+rm -rf heuristics.sas
+rm -rf initfeature-info.txt
+rm -rf output
+rm -rf output-old
+rm -rf output-old.sas
+rm -rf output.sas
+rm -rf plan_numbers_and_cost
+rm -rf salida.*
+rm -rf test.groups
+rm -rf tmp_results
+rm -rf translateFile
+rm -rf translateFileSimply
+rm -rf all.groups
+rm -rf *~
+cd src/models/
+rm -f listPlanner
+rm -f outputModel
+cd ../../
+cd src/parser/
+./clean
+cd ../
+cd plans_folder/
+rm *
+exit

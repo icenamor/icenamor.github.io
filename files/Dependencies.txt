@@ -1,0 +1,8 @@
+##One important think of the planner is there are several candidate planner was programed on C++ but old version, not C++11 or C++14. You need to had this version on your computer. 
+python version 2.7
+sudo apt-get install python make g++ gcc flex bison cmake scons
+sudo apt-get install xutils-dev libgmp3-dev gawk python-pyparsing
+##install java
+##http://www.duinsoft.nl/packages.php
+##If you are using an x64 system
+sudo apt-get install g++-multilib

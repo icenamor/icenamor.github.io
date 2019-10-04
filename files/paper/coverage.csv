@@ -1,0 +1,12 @@
+coverage	seq-opt-baseline-blind-team0.img	seq-opt-baseline-sbd-team0.img	seq-opt-team2.img	seq-opt-team3.img	seq-opt-team5.img	seq-opt-team9.img	seq-opt-team10.img	seq-opt-team13.img	seq-opt-team17.img	seq-opt-team21.img	seq-opt-team22.img	seq-opt-team23.img	seq-opt-team24.img	seq-opt-team26.img	seq-opt-team27.img	seq-opt-team32.img	seq-opt-team40.img	seq-opt-team44.img
+agricola (20)	0	15	0	0	7	10	1	0	2	0	0	12	11	9	14	6	6	2
+caldera-combined (20)	8	10	8	8	8	11	8	2	2	13	15	13	11	12	12	12	12	12
+data-network (20)	7	13	14	9	13	14	9	12	9	12	12	13	13	10	9	12	14	14
+nurikabe (20)	11	11	11	8	8	13	7	0	0	12	12	12	11	12	12	12	11	13
+organic-synthesis-combined (20)	10	13	14	13	12	13	13	6	6	14	14	13	13	13	13	13	13	13
+petri-net-alignment (20)	7	19	8	2	10	17	2	0	0	9	9	20	9	2	2	18	18	0
+settlers (20)	8	8	8	0	0	8	0	0	0	9	0	9	8	9	8	9	8	10
+snake (20)	12	4	11	0	11	11	0	7	14	7	7	11	7	11	11	14	13	14
+spider (20)	11	7	13	4	6	11	5	10	1	11	12	11	7	11	11	12	11	17
+termes (20)	10	18	12	13	16	16	13	6	12	6	6	12	15	12	12	16	16	14
+Sum (200)	84	118	99	57	91	124	58	43	46	93	87	126	105	101	104	124	122	109
