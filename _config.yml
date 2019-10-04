@@ -25,7 +25,7 @@ comments:
   discourse:
     server               : # https://meta.discourse.org/t/embedding-discourse-comments-via-javascript/31963 , e.g.: meta.discourse.org
   facebook:
-    appid                :
+    appid                : IsaStarIA
     num_posts            : # 5 (default)
     colorscheme          : dark # "light" (default), "dark"
 staticman:
@@ -57,7 +57,7 @@ yandex_site_verification :
 twitter:
   username               : &twitter "Icenamor"
 facebook:
-  username               :
+  username               : IsaStarIA
   app_id                 :
   publisher              :
 og_image                 :  # Open Graph/Twitter default site image
@@ -90,7 +90,7 @@ author:
   codepen          :
   dribbble         :
   flickr           : "icenamor"
-  facebook         : 
+  facebook         : "IsaStarIA"
   foursquare       :
   github           : "icenamor"
   google_plus      : "IsabelCenamor"
@@ -101,10 +101,10 @@ author:
   orcid            : "https://orcid.org/0000-0003-0071-8656"
   pinterest        :
   soundcloud       :
-  stackoverflow    : "isabel-cenamor"
+  stackoverflow    : "9935389/isabel-cenamor"
   steam            :
   tumblr           :
-  twitter          : "ICenamor"
+  twitter          : "@isa__star"
   vine             :
   weibo            :
   xing             :
