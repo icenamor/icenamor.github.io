@@ -22,7 +22,7 @@ Selected Planners
 
 --------------------
 
-International Planning Competition (IPC-2018)[https://ipc2018-temporal.bitbucket.io/]
+International Planning Competition [IPC-2018](https://ipc2018-temporal.bitbucket.io/)
 
 ## How do I install Singularity on my machine?
 > You can install Singularity locally with the following commands (See the Singularity quick start guide for more details):
@@ -66,7 +66,7 @@ g++-5\
 gcc-5\
 ``` 
 
-* (PlannerSingularity)[https://drive.google.com/open?id=1FonR2VO5OaB2fbdCWqN8IRLCJZ-GVAY_]
+* [PlannerSingularity](https://drive.google.com/open?id=1FonR2VO5OaB2fbdCWqN8IRLCJZ-GVAY_)
 
 
 
