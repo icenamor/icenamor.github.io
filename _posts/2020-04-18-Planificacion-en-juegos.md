@@ -1,5 +1,5 @@
 ---
-title: '¿Pueden los juegos usar Planificación Automática?. Isa Star'
+title: '¿Pueden los juegos usar Planificación Automática? Isa Star'
 date: 2020-04-18
 permalink: /posts/2020/04/blog-post-1/
 tags:
