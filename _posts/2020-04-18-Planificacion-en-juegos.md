@@ -8,8 +8,6 @@ tags:
   - google
 ---
 
-¿Pueden los juegos usar Planificación Automática?
-========
 
 IA en videojuegos con F.E.A.R. 
 ------
@@ -36,7 +34,7 @@ En este vídeo comparo las maquinas de estados finitos versus la planificación 
  _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ 
 
 
-<iframe width="560" height="315" src="https://www.youtube.com/watch?v=rOrE33acl1Q" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/rOrE33acl1Q" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 [URL](https://www.youtube.com/watch?v=rOrE33acl1Q)
 
