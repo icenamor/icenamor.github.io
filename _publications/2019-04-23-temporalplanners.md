@@ -26,8 +26,7 @@ Keywords: automated planning, predicting performance, temporal planning
 
 -------
 
-The source code is: [code](https://github.com/icenamor/Temporal.git)
+The source [code](https://github.com/icenamor/Temporal.git)
 
-
-:exclamation:  :exclamation:  It is a source code from 2014, the gcc is not the current version 
+It is a source code is from 2014, the gcc is not the current version 
 
