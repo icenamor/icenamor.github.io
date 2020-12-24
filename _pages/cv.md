@@ -31,9 +31,9 @@ Intelligence 2011-2012
 
 Work experience
 ======
-* Currently: Project Manager
+* Currently: Chief Technology Officer (CTO)
   * Xplain AG Ibérica S. L.
-  * Duties included: Responsible and developer of a range of multi-disciplinary projects in Xplain. The company is an IT company specialized in solutions for public administration and organizations with security tasks. We daily work in cooperation with our colleagues in Germany and at the Swiss headquarters
+  * Duties included: Responsible of a range of multi-disciplinary projects in Xplain. The company is an IT company specialized in solutions for public administration and organizations with security tasks. We daily work in cooperation with our colleagues in Germany and at the Swiss headquarters
   * Supervisor: Daniel Loewinger
 
 * May 2014: Researching Assistant
