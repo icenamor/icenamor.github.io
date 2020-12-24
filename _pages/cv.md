@@ -100,4 +100,7 @@ Auxiliary Reviewer
 
 Program Committee
 ======
-* ICAPS-19: The 29th International Conference on Automated Planning and Scheduling.  https://icaps19.icaps-conference.org/organizing-team
+* ICAPS-19, 20, 21: The 29th International Conference on Automated Planning and Scheduling.  https://icaps19.icaps-conference.org/organizing-team
+* AAAI-21: The 35th Conference on Artificial Intelligence.  https://aaai.org/Conferences/AAAI-21/
+
+
