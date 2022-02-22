@@ -1,8 +1,8 @@
 ---
-title: " Máster en Big Data y Data Science"
+title: "Herramientas de programación - Máster en Big Data y Data Science"
 collection: teaching
 type: "Complemento Formativo"
-permalink: /teaching/2022-complementos
+permalink: /teaching/2022-11-complementos
 venue: "Universidad Internacional de Valencia"
 date: 2022-11-17
 location: "Valencia, Spain"
