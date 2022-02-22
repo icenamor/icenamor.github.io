@@ -1,7 +1,7 @@
 ---
 title: " Máster en Big Data y Data Science"
 collection: teaching
-type: "Undergraduate course"
+type: "Obligatoria"
 permalink: /teaching/2020-spring-teaching-1
 venue: "Universidad Internacional de Valencia"
 date: 2020-11-17
