@@ -1,10 +1,10 @@
 ---
 title: " Máster en Big Data y Data Science"
 collection: teaching
-type: "Undergraduate course"
-permalink: /teaching/2020-spring-teaching-1
+type: "Complemento Formativo"
+permalink: /teaching/2022-complementos
 venue: "Universidad Internacional de Valencia"
-date: 2020-11-17
+date: 2022-11-17
 location: "Valencia, Spain"
 ---
 (1/1 academic year)
