@@ -13,7 +13,8 @@ Statistical Learning and Data Mining
 ======
 
 Courses:
-- 2020/2021
+- 2020/2021 (April)
+- 2021/2022 (April / October)
 
 Programme
 ------------
