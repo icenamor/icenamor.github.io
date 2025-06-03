@@ -1,7 +1,7 @@
 ---
 title: "La creatividad de la IA permite comprender mejor cómo funciona la humana"
 collection: publications
-permalink: /publication/2019-07-12-WIPC
+permalink: /publication/2024-02-12-Telos-FundacionTelefonica
 excerpt: 'La creatividad de la IA permite comprender mejor cómo funciona la humana'
 date: 2024-02-12
 venue: 'Telos *Fundación Telefónica'
