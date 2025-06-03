@@ -11,7 +11,7 @@ citation: 'Isabel Cenamor: «La creatividad de la IA permite comprender mejor c�
 Preguntamos a un grupo de especialistas en inteligencia artificial sobre las principales incógnitas que despierta su uso y desarrollo. Nos han señalado cuáles son los mayores desafíos éticos, de seguridad, privacidad y regulación, haciendo hincapié en la necesidad de supervisión humana y señalando el avance exponencial que seguiremos viendo en el progreso de la IA.
  
  
-<a href="[ruta/al/archivo.pdf](https://github.com/icenamor/icenamor.github.io/blob/master/files/Isabel%20Cenamor-Telos%20Fundaci%C3%B3n%20Tel%C3%A9fonica.pdf)" target="_blank">PDF article</a>
+<a href="https://github.com/icenamor/icenamor.github.io/blob/master/files/Isabel%20Cenamor-Telos%20Fundaci%C3%B3n%20Tel%C3%A9fonica.pdf" target="_blank">PDF article</a>
 
 First published: 12 February 2024
 

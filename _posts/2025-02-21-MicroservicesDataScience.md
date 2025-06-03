@@ -35,6 +35,7 @@ This course is for anyone who wants to increase their knowledge in the deploymen
  _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ 
 
 
-<img src="files/Microservices introduction for Data Science.jpg" alt="Microservices introduction for Data Science">
+<img src="https://github.com/icenamor/icenamor.github.io/blob/master/files/Udemy/Microservices%20introduction%20for%20Data%20Science.jpg" alt="Microservices introduction for Data Science">
+
 
 
