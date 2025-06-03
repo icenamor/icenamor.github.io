@@ -23,11 +23,11 @@ In this course you will learn both the theory and the basic practice that will a
 
 This course is for anyone who wants to increase their knowledge in the deployment of Machine Learning models in production, including Data Scientists, Data Architects, developers and product managers.
 
-Lo que aprenderás
+
 Generate an application with microservices that does Machine Learning predictions.
-¿Hay requisitos para realizar el curso?
+
 We will work with Python, Scikit-Learn, Flask, Docker, Kubernetes and Jenkins, but no prior knowledge is required to enjoy this course.
-¿Para quién es este curso?
+
 This course is for anyone who wants to increase their knowledge in the deployment of Machine Learning models in production, including Data Scientists, Data Architects, developers and product managers.
 
  _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ 
