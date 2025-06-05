@@ -33,7 +33,6 @@ This course is for anyone who wants to increase their knowledge in the deploymen
  _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ 
 
  _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ 
- <img src='/images/islandia/ViajeDia1.PNG'>
 
 
 <a class="image-popup" href="/files/Udemy/MicroservicesIntroductionDataScience.jpg">
