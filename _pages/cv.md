@@ -77,7 +77,9 @@ Skills
 * Software Architecture & Scalability
 * Cloud Computing: Azure
 * Containers & Orchestration: For builds and deployments
+
 👥 Leadership & Management
+
 * Technical Leadership & Mentoring
 * Strategic Decision-Making
 * Team Management: Multidisciplinary and remote teams
