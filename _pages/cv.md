@@ -56,29 +56,36 @@ Skills
 
 
 🧠 Artificial Intelligence & Machine Learning
+
 * Machine Learning: Supervised and unsupervised
 * Deep Learning: CNN, RNN, Transformers
 * Automated Planning: PDDL, temporal and hierarchical planning
 * AI Research & Competitions: ICAPS, benchmarks
 * MLOps: Model lifecycle, deployment, monitoring
+
 🛠️ Technologies & Development
+
 * Python: Pandas, Scikit-learn, TensorFlow, PyTorch
 * Java: Productive and academic environments
 * RESTful APIs & Microservices
 * Docker & Kubernetes: Development and production environments
 * Version Control & CI/CD: Git, Jenkins, GitLab CI
 * Databases: SQL (PostgreSQL, SQL Server), NoSQL
+
 🌐 Web & Software Architecture
+
 * Software Architecture & Scalability
 * Cloud Computing: Azure
 * Containers & Orchestration: For builds and deployments
 👥 Leadership & Management
 * Technical Leadership & Mentoring
-S* trategic Decision-Making
+* Strategic Decision-Making
 * Team Management: Multidisciplinary and remote teams
 * Agile Methodologies: Scrum
 * Stakeholder Communication & Tech-Business Alignment
+
 📈 Outreach & Impact
+
 * Public Speaking: Podcasts, interviews
 * Academic-Industry Collaboration: Universidad Carlos III, Universidad Internacional de Valencia 
 * Reviewer for AI Conferences: ICAPS
