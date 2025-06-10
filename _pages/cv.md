@@ -41,7 +41,7 @@ Work experience
   * Duties included: My dissertation and lab teaching
   * Supervisor: Planning and Learning Group -  Fernando Fernandez and Tomas de la Rosa
   
-* Decembre 2014: Intership
+* December 2014: Intership
   * University of Huddersfield
   * Duties included: Automated Planning on Transport System Support” at COST Network Action Autonomic Road Transport Support Systems(ARTS), (EU/ESF funded)
   * Supervisor: Lee McCluskey
@@ -53,7 +53,39 @@ Work experience
   
 Skills
 ======
-* Problem Solving Techniques: csp, sat, automated planning, heuristic search and stochastic search
+
+
+🧠 Artificial Intelligence & Machine Learning
+* Machine Learning: Supervised and unsupervised
+* Deep Learning: CNN, RNN, Transformers
+* Automated Planning: PDDL, temporal and hierarchical planning
+* AI Research & Competitions: ICAPS, benchmarks
+* MLOps: Model lifecycle, deployment, monitoring
+🛠️ Technologies & Development
+* Python: Pandas, Scikit-learn, TensorFlow, PyTorch
+* Java: Productive and academic environments
+* RESTful APIs & Microservices
+* Docker & Kubernetes: Development and production environments
+* Version Control & CI/CD: Git, Jenkins, GitLab CI
+* Databases: SQL (PostgreSQL, SQL Server), NoSQL
+🌐 Web & Software Architecture
+* Software Architecture & Scalability
+* Cloud Computing: Azure
+* Containers & Orchestration: For builds and deployments
+👥 Leadership & Management
+* Technical Leadership & Mentoring
+S* trategic Decision-Making
+* Team Management: Multidisciplinary and remote teams
+* Agile Methodologies: Scrum
+* Stakeholder Communication & Tech-Business Alignment
+📈 Outreach & Impact
+* Public Speaking: Podcasts, interviews
+* Academic-Industry Collaboration: Universidad Carlos III, Universidad Internacional de Valencia 
+* Reviewer for AI Conferences: ICAPS
+
+
+
+<!--- * Problem Solving Techniques: csp, sat, automated planning, heuristic search and stochastic search
 * Automated Learning Systems: Weka and RapidMiner
 * SAT Systems: MIPSat, SatZilla, Hydra and 3s
 * Reasoning systems: Bayesian networks and fuzzy logic
@@ -66,6 +98,7 @@ Skills
 * UML System: Altova UModel, Dia and EasyCase.
 * Operating Systems: Unix, Ubuntu, Windows
 * Other: Clips, MPI , OpenMP and LATEX
+-->
 
 Publications
 ======
@@ -100,7 +133,7 @@ Auxiliary Reviewer
 
 Program Committee
 ======
-* ICAPS-19, 20, 21: The 29th International Conference on Automated Planning and Scheduling.  https://icaps19.icaps-conference.org/organizing-team
+* ICAPS-19, 20, 21, 22, 23, 24, 25: The  International Conference on Automated Planning and Scheduling.  https://icaps19.icaps-conference.org/organizing-team
 * AAAI-21: The 35th Conference on Artificial Intelligence.  https://aaai.org/Conferences/AAAI-21/
 
 
