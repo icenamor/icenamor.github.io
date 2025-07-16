@@ -64,7 +64,7 @@ Building Systems with the ChatGPT API
 ======
 # 🎉 ¡He completado el curso de ChatGPT! 🎉
 
-[Building Systems with the ChatGPT API](https://learn.deeplearning.ai/accomplishments/217e0547-4253-4e8e-8885-a22b96ae1f7e?usp=sharing)
+🔗[Building Systems with the ChatGPT API](https://learn.deeplearning.ai/accomplishments/217e0547-4253-4e8e-8885-a22b96ae1f7e?usp=sharing)
 
 Aprenda a desglosar tareas complejas, automatizar flujos de trabajo, encadenar llamadas LLM y obtener mejores resultados de los LLM. Evalúe las entradas y salidas de los LLM para comprobar su seguridad y relevancia.
 
@@ -73,7 +73,7 @@ ChatGPT Prompt Engineering for Developers
 ======
 # 🎉 ¡He completado el curso de Prompt Engineering! 🎉
 
-[ChatGPT Prompt Engineering for Developers!](https://learn.deeplearning.ai/accomplishments/7ca71323-f391-4652-9674-9a962b6d8caa?usp=sharing)
+🔗[ChatGPT Prompt Engineering for Developers](https://learn.deeplearning.ai/accomplishments/7ca71323-f391-4652-9674-9a962b6d8caa?usp=sharing)
 
 
 Aprenda los fundamentos de la ingeniería de avisos para ChatGPT. Aprenda a dividir tareas complejas, automatizar flujos de trabajo, encadenar llamadas LLM y obtener mejores resultados de los LLM. Evalúe la seguridad y relevancia de las entradas y salidas de los LLM.
@@ -83,6 +83,6 @@ Aprenda los fundamentos de la ingeniería de avisos para ChatGPT. Aprenda a divi
 Finetuning Large Language Models
 ======
 # 🎉 ¡He completado el curso de Finetuning Large Language Models! 🎉 
-Descubra cuándo utilizar el finetuning frente al prompting para los LLM. Seleccione modelos de código abierto adecuados, prepare datos y entrene y evalúe para su dominio específico.
-[ Finetuning Large Language Models!](https://learn.deeplearning.ai/accomplishments/b4627de7-006a-4116-b344-26ea094ab194?usp=sharing)
+Descubra cuándo utilizar el finetning frente al prompting para los LLM. Seleccione modelos de código abierto adecuados, prepare datos y entrene y evalúe para su dominio específico.
+🔗 [Finetuning Large Language Models!](https://learn.deeplearning.ai/accomplishments/b4627de7-006a-4116-b344-26ea094ab194?usp=sharing)
 
