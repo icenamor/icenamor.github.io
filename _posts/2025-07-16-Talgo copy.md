@@ -1,17 +1,13 @@
 ---
-title: 'hallucinations-AAi'
+title: "¿Por qué los modelos de lenguaje alucinan? El equilibrio entre falsos positivos y falsos negativos en la nueva generación de IA"
+description: "Exploración de las causas de las alucinaciones en modelos de lenguaje, el trade-off entre falsos positivos y falsos negativos, y cómo GPT-5 aborda este desafío."
+permalink: /posts/2025/09/blog-post-1/
 date: 2025-09-30
-permalink: /posts/2025/07/blog-post-1/
 tags:
   - IA
   - Machine Learning
   - Tecnología
   - Inteligencia Artificial
-
----
-title: "¿Por qué los modelos de lenguaje alucinan? El equilibrio entre falsos positivos y falsos negativos en la nueva generación de IA"
-description: "Exploración de las causas de las alucinaciones en modelos de lenguaje, el trade-off entre falsos positivos y falsos negativos, y cómo GPT-5 aborda este desafío."
-date: 2025-09-30
 ---
 
 # ¿Por qué los modelos de lenguaje alucinan? El equilibrio entre falsos positivos y falsos negativos en la nueva generación de IA
