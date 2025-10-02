@@ -14,6 +14,7 @@ Herramientas de programación ECTS 6 creditos
 
 Curso:
 - 2021/2022 (October)
+- 2022/2023 (Abril)
 
 Descripción
 ------------
